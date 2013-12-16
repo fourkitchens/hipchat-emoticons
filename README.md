@@ -22,6 +22,12 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 (pizza) ![pizza][pizza]
 
+(wolverine) ![wolverine][wolverine]
+
+(penguin) ![penguin][penguin]
+
+(ewok) ![ewok][ewok]
+
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
 [jim]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/jim.gif
 [taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/taco.png
@@ -29,6 +35,6 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [octocat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/octocat.png
 [sushi]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/sushi.png
 [ian]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/ian.png
-[rupl]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/rupl.png
-[drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/drupal.png
-[pizza]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/pizza.png
+[wolverine]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wolverine.gif
+[penguin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/penguin.gif
+[ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/ewok.gif
