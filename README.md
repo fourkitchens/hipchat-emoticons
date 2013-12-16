@@ -2,31 +2,32 @@
 
 We've expanded on the core set of [emoticons included with HipChat](http://hipchat-emoticons.nyh.name) and added our own.
 
-(4K) ![4K logo][4K]  
 
-(jim) ![Earthworm Jim][jim]
+![4K logo][4K] (4K)
 
-(taco) ![Taco][taco]
+![Earthworm Jim][jim] (jim)
 
-(sandwich) ![sandwich][sandwich]
+![Taco][taco] (taco)
 
-(octocat) ![octocat][octocat]
+![sandwich][sandwich] (sandwich)
 
-(sushi) ![sushi][sushi]
+![octocat][octocat] (octocat)
 
-(ian) ![ian][ian]
+![sushi][sushi] (sushi)
 
-(rupl) ![rupl][rupl]
+![ian][ian] (ian)
 
-(drupal) ![drupal][drupal]
+![rupl][rupl] (rupl)
 
-(pizza) ![pizza][pizza]
+![drupal][drupal] (drupal)
 
-(wolverine) ![wolverine][wolverine]
+![pizza][pizza] (pizza)
 
-(penguin) ![penguin][penguin]
+![wolverine][wolverine] (wolverine)
 
-(ewok) ![ewok][ewok]
+![penguin][penguin] (penguin)
+
+![ewok][ewok] (ewok)
 
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
 [jim]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/jim.gif
