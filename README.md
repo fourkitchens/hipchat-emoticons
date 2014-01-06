@@ -52,4 +52,4 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Creating your own emoticons
 
-Images must be under 100Kb and have max dimensions of 25px tall and 30px wide. Use a transparent PNG or animated GIF for best results.
+We are using HipChat's built-inn emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know. Images must be under 100Kb and have max dimensions of 25px tall and 30px wide. Use a transparent PNG or animated GIF for best results.
