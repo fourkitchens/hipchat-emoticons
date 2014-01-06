@@ -29,6 +29,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![ewok][ewok] (ewok)
 
+![matt][matt] (matt)
+
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
 [jim]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/jim.gif
 [taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/taco.png
@@ -42,3 +44,4 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [wolverine]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wolverine.gif
 [penguin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/penguin.gif
 [ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/ewok.gif
+[matt]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/matt.png
