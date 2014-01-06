@@ -2,6 +2,8 @@
 
 We've expanded on the core set of [emoticons included with HipChat](http://hipchat-emoticons.nyh.name) and added our own.
 
+## Emoticons
+
 ![4K logo][4K] (4K)
 
 ![ewok][ewok] (ewok)
@@ -47,3 +49,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [penguin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/penguin.gif
 [ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/ewok.gif
 [matt]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/matt.png
+
+## Creating your own emoticons
+
+Images must be under 100Kb and have max dimensions of 25px tall and 30px wide. Use a transparent PNG or animated GIF for best results.
