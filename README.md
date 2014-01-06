@@ -33,8 +33,6 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![rupl][rupl] (rupl)
 
 
-![matt][matt] (matt)
-
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
 [jim]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/jim.gif
 [taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/taco.png
