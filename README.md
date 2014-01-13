@@ -26,29 +26,40 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![wolverine][wolverine] (wolverine)
 
+[4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
+[drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/drupal.png
+[ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/ewok.gif
+[jim]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/jim.gif
+[octocat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/octocat.png
+[penguin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/penguin.gif
+[pizza]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/pizza.png
+[sandwich]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/sandwich.png
+[sushi]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/sushi.png
+[taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/taco.png
+[wolverine]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wolverine.gif
+
 ## Web chefs
 
-![ian][ian] (ian)
+You can also summon any of the Web Chefs.
 
-![matt][matt] (matt)
+![aaron](https://raw.github.com/fourkitchens/hipchat-emoticons/master/aaron.png)
+![caris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/caris.png)
+![cecy](https://raw.github.com/fourkitchens/hipchat-emoticons/master/cecy.png)
+![chris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/chris.png)
+![david](https://raw.github.com/fourkitchens/hipchat-emoticons/master/david.png)
+![elia](https://raw.github.com/fourkitchens/hipchat-emoticons/master/elia.png)
+![elliott](https://raw.github.com/fourkitchens/hipchat-emoticons/master/elliott.png)
+![ian](https://raw.github.com/fourkitchens/hipchat-emoticons/master/ian.png)
+![jared](https://raw.github.com/fourkitchens/hipchat-emoticons/master/jared.png)
+![leah](https://raw.github.com/fourkitchens/hipchat-emoticons/master/leah.png)
+![matt](https://raw.github.com/fourkitchens/hipchat-emoticons/master/matt.png)
+![mike](https://raw.github.com/fourkitchens/hipchat-emoticons/master/mike.png)
+![paul](https://raw.github.com/fourkitchens/hipchat-emoticons/master/paul.png)
+![suzy](https://raw.github.com/fourkitchens/hipchat-emoticons/master/suzy.png)
+![taylor](https://raw.github.com/fourkitchens/hipchat-emoticons/master/taylor.png)
+![todd](https://raw.github.com/fourkitchens/hipchat-emoticons/master/todd.png)
+![vivek](https://raw.github.com/fourkitchens/hipchat-emoticons/master/vivek.png)
 
-![rupl][rupl] (rupl)
-
-
-[4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
-[jim]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/jim.gif
-[taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/taco.png
-[sandwich]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/sandwich.png
-[octocat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/octocat.png
-[sushi]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/sushi.png
-[ian]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/ian.png
-[rupl]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/rupl.png
-[drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/drupal.png
-[pizza]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/pizza.png
-[wolverine]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wolverine.gif
-[penguin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/penguin.gif
-[ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/ewok.gif
-[matt]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/matt.png
 
 ## Creating your own emoticons
 
