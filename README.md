@@ -60,7 +60,12 @@ You can also summon any of the Web Chefs.
 ![todd](https://raw.github.com/fourkitchens/hipchat-emoticons/master/todd.png)
 ![vivek](https://raw.github.com/fourkitchens/hipchat-emoticons/master/vivek.png)
 
+Web Chefs are summoned using `(firstname)`, except for ![chris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/chris.png) who is `(rupl)`.
 
 ## Creating your own emoticons
 
-We are using HipChat's built-inn emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know. Images must be under 100Kb and have max dimensions of 25px tall and 30px wide. Use a transparent PNG or animated GIF for best results.
+We are using HipChat's built-inn emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know.
+
+* Max dimensions are 25px tall and 30px wide
+* Use a transparent PNG or animated GIF for best results
+* Images must be under 100Kb
