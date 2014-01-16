@@ -39,7 +39,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [sushi]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/sushi.png
 [taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/taco.png
 [wolverine]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wolverine.gif
-[doge]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/doge.gif
+[doge]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/doge.png
 
 ## Web chefs
 
