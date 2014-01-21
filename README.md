@@ -8,6 +8,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![ewok][ewok] (ewok)
 
+![doge][doge] (doge)
+
 ![drupal][drupal] (drupal)
 
 ![Earthworm Jim][jim] (jim)
@@ -25,8 +27,6 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![Taco][taco] (taco)
 
 ![wolverine][wolverine] (wolverine)
-
-![doge][doge] (doge)
 
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
 [drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/drupal.png
@@ -72,3 +72,7 @@ We are using HipChat's built-inn emoticon feature, which means an admin must upl
 * Max dimensions are 25px tall and 30px wide
 * Use a transparent PNG or animated GIF for best results
 * Images must be under 100Kb
+
+## Need inspiration?
+
+* [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)
