@@ -43,7 +43,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Web chefs
 
-You can also summon any of the Web Chefs.
+You can also summon any of the Web Chefs using `(firstname)`, except for ![chris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/chris.png) who is `(rupl)`.
 
 ![aaron](https://raw.github.com/fourkitchens/hipchat-emoticons/master/aaron.png)
 ![caris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/caris.png)
@@ -63,7 +63,7 @@ You can also summon any of the Web Chefs.
 ![todd](https://raw.github.com/fourkitchens/hipchat-emoticons/master/todd.png)
 ![vivek](https://raw.github.com/fourkitchens/hipchat-emoticons/master/vivek.png)
 
-Web Chefs are summoned using `(firstname)`, except for ![chris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/chris.png) who is `(rupl)`.
+
 
 ## Creating your own emoticons
 
