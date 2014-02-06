@@ -32,6 +32,10 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![wolverine][wolverine] (wolverine)
 
+![hr][hr] (hr)
+
+![dolpin][dolphin] (dolphin)
+
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
 [drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/drupal.png
 [ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/ewok.gif
@@ -46,6 +50,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [doge]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/doge.png
 [bacon]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/bacon.png
 [wonka]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wonka.png
+[hr]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/hr.png
+[dolphin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/dolphin.png
 
 ## Web chefs
 
