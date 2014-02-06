@@ -6,6 +6,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![4K logo][4K] (4K)
 
+![bacon][bacon] (bacon)
+
 ![ewok][ewok] (ewok)
 
 ![doge][doge] (doge)
@@ -26,6 +28,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![Taco][taco] (taco)
 
+![wonka][wonka] (wonka)
+
 ![wolverine][wolverine] (wolverine)
 
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/4K.png
@@ -40,6 +44,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/taco.png
 [wolverine]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wolverine.gif
 [doge]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/doge.png
+[bacon]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/bacon.png
+[wonka]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wonka.png
 
 ## Web chefs
 
