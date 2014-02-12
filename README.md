@@ -87,4 +87,4 @@ We are using HipChat's built-inn emoticon feature, which means an admin must upl
 
 ## Need inspiration?
 
-* [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)
+* [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com) ([source](https://github.com/arvida/emoji-cheat-sheet.com/tree/master/public/graphics/emojis))
