@@ -36,6 +36,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![Taco][taco] (taco)
 
+![dietcoke][dietcoke] (dietcoke)
+
 ![wonka][wonka] (wonka)
 
 ![wolverine][wolverine] (wolverine)
@@ -62,6 +64,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [dolphin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/dolphin.png
 [bike]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/bike.png
 [hamburger]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/hamburger.png
+[dietcoke]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/dietcoke.png
 [+1]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/+1.png
 [metal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/metal.png
 
