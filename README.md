@@ -6,7 +6,11 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![4K logo][4K] (4K)
 
+![+1][+1] (+1)
+
 ![bacon][bacon] (bacon)
+
+![bike][bike] (bike)
 
 ![ewok][ewok] (ewok)
 
@@ -15,6 +19,10 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![drupal][drupal] (drupal)
 
 ![Earthworm Jim][jim] (jim)
+
+![hamburger][hamburger] (hamburger)
+
+![metal][metal] (metal)
 
 ![octocat][octocat] (octocat)
 
@@ -52,6 +60,10 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [wonka]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/wonka.png
 [hr]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/hr.png
 [dolphin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/dolphin.png
+[bike]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/bike.png
+[hamburger]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/hamburger.png
+[+1]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/+1.png
+[metal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/metal.png
 
 ## Web chefs
 
