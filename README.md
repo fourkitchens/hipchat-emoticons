@@ -6,7 +6,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![4K logo][4K] (4K)
 
-![+1][+1] (+1)
+![+1][+1] (plusone)
 
 ![bacon][bacon] (bacon)
 
