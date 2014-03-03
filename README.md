@@ -70,7 +70,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Web chefs
 
-You can also summon any of the Web Chefs using `(firstname)`, except for ![chris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/chris.png) who is `(rupl)`.
+You can also summon any of the Web Chefs using `(firstname)`, except for ![chris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/chris.png) who is `(rupl)`.
 
 ![aaron](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/aaron.png)
 ![caris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/caris.png)
