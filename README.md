@@ -85,6 +85,7 @@ You can also summon any of the Web Chefs using `(firstname)`, except for ![chris
 ![matt](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/matt.png)
 ![mike](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/mike.png)
 ![paul](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/paul.png)
+![peter](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/peter.png)
 ![suzy](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/suzy.png)
 ![taylor](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/taylor.png)
 ![todd](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/todd.png)
