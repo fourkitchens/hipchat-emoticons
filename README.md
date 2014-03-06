@@ -100,7 +100,7 @@ You can also summon any of the Web Chefs using `(firstname)`, except for ![chris
 
 ## Creating your own emoticons
 
-We are using HipChat's built-inn emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know.
+We are using HipChat's built-in emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know.
 
 * Max dimensions are 25px tall and 30px wide
 * Use a transparent PNG or animated GIF for best results
