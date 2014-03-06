@@ -72,7 +72,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [dietcoke]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dietcoke.png
 [+1]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/+1.png
 [metal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/metal.png
-[timeforthat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/timeforthat.png
+[timeforthat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/timeforthat.gif
 [dude]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dude.png
 
 ## Web chefs
