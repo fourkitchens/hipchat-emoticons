@@ -46,6 +46,11 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![dolpin][dolphin] (dolphin)
 
+![timeforthat][timeforthat] (timeforthat)
+
+![dude][dude] (dude)
+
+
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/4K.png
 [drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/drupal.png
 [ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/ewok.gif
@@ -67,6 +72,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [dietcoke]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dietcoke.png
 [+1]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/+1.png
 [metal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/metal.png
+[timeforthat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/timeforthat.png
+[dude]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dude.png
 
 ## Web chefs
 
