@@ -50,6 +50,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![dude][dude] (dude)
 
+![poolparty][poolparty] (poolparty)
+
 
 [4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/4K.png
 [drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/drupal.png
@@ -74,6 +76,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 [metal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/metal.png
 [timeforthat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/timeforthat.gif
 [dude]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dude.png
+[poolparty]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/poolparty.gif
 
 ## Web chefs
 
