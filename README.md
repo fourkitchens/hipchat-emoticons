@@ -55,35 +55,6 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![horse](src/horse) (horse)
 
 
-<<<<<<< HEAD
-=======
-[4K]: src/4K.png
-[drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/drupal.png
-[ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/ewok.gif
-[jim]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/jim.gif
-[octocat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/octocat.png
-[penguin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/penguin.gif
-[pizza]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/pizza.png
-[sandwich]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/sandwich.png
-[sushi]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/sushi.png
-[taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/taco.png
-[wolverine]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/wolverine.gif
-[doge]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/doge.png
-[bacon]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/bacon.png
-[wonka]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/wonka.png
-[hr]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/hr.png
-[dolphin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dolphin.png
-[bike]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/bike.png
-[hamburger]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/hamburger.png
-[dietcoke]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dietcoke.png
-[+1]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/+1.png
-[metal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/metal.png
-[timeforthat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/timeforthat.gif
-[dude]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dude.png
-[poolparty]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/poolparty.gif
-[horse]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/horse.png
-
->>>>>>> FETCH_HEAD
 ## Web chefs
 
 You can also summon any of the Web Chefs using `(firstname)`, except for ![chris](src/chris.png) who is `(rupl)`.
