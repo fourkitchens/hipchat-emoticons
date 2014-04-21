@@ -42,7 +42,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![wolverine](src/wolverine.gif) (wolverine)
 
-![hr](src/hr.gif) (hr)
+![hr](src/hr.png) (hr)
 
 ![dolpin](src/dolphin.png) (dolphin)
 
