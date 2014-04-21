@@ -6,53 +6,53 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![4K logo](src/4K.png) (4K)
 
-![+1](src/+1) (plusone)
+![+1](src/+1.png) (plusone)
 
-![bacon](src/bacon) (bacon)
+![bacon](src/bacon.png) (bacon)
 
-![bike](src/bike) (bike)
+![bike](src/bike.png) (bike)
 
-![ewok](src/ewok) (ewok)
+![ewok](src/ewok.gif) (ewok)
 
-![doge](src/doge) (doge)
+![doge](src/doge.png) (doge)
 
-![drupal](src/drupal) (drupal)
+![drupal](src/drupal.png) (drupal)
 
-![Earthworm Jim](src/jim) (jim)
+![Earthworm Jim](src/jim.gif) (jim)
 
-![hamburger](src/hamburger) (hamburger)
+![hamburger](src/hamburger.png) (hamburger)
 
-![metal](src/metal) (metal)
+![metal](src/metal.png) (metal)
 
-![octocat](src/octocat) (octocat)
+![octocat](src/octocat.png) (octocat)
 
-![penguin](src/penguin) (penguin)
+![penguin](src/penguin.gif) (penguin)
 
-![pizza](src/pizza) (pizza)
+![pizza](src/pizza.png) (pizza)
 
-![sandwich](src/sandwich) (sandwich)
+![sandwich](src/sandwich.png) (sandwich)
 
-![sushi](src/sushi) (sushi)
+![sushi](src/sushi.png) (sushi)
 
-![Taco](src/taco) (taco)
+![Taco](src/taco.png) (taco)
 
-![dietcoke](src/dietcoke) (dietcoke)
+![dietcoke](src/dietcoke.png) (dietcoke)
 
-![wonka](src/wonka) (wonka)
+![wonka](src/wonka.png) (wonka)
 
-![wolverine](src/wolverine) (wolverine)
+![wolverine](src/wolverine.gif) (wolverine)
 
-![hr](src/hr) (hr)
+![hr](src/hr.gif) (hr)
 
-![dolpin](src/dolphin) (dolphin)
+![dolpin](src/dolphin.png) (dolphin)
 
-![timeforthat](src/timeforthat) (timeforthat)
+![timeforthat](src/timeforthat.gif) (timeforthat)
 
-![dude](src/dude) (dude)
+![dude](src/dude.png) (dude)
 
-![poolparty](src/poolparty) (poolparty)
+![poolparty](src/poolparty.gif) (poolparty)
 
-![horse](src/horse) (horse)
+![horse](src/horse.png) (horse)
 
 
 ## Web chefs
