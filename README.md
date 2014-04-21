@@ -4,106 +4,80 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Emoticons
 
-![4K logo][4K] (4K)
+![4K logo](src/4K.png) (4K)
 
-![+1][+1] (plusone)
+![+1](src/+1) (plusone)
 
-![bacon][bacon] (bacon)
+![bacon](src/bacon) (bacon)
 
-![bike][bike] (bike)
+![bike](src/bike) (bike)
 
-![ewok][ewok] (ewok)
+![ewok](src/ewok) (ewok)
 
-![doge][doge] (doge)
+![doge](src/doge) (doge)
 
-![drupal][drupal] (drupal)
+![drupal](src/drupal) (drupal)
 
-![Earthworm Jim][jim] (jim)
+![Earthworm Jim](src/jim) (jim)
 
-![hamburger][hamburger] (hamburger)
+![hamburger](src/hamburger) (hamburger)
 
-![metal][metal] (metal)
+![metal](src/metal) (metal)
 
-![octocat][octocat] (octocat)
+![octocat](src/octocat) (octocat)
 
-![penguin][penguin] (penguin)
+![penguin](src/penguin) (penguin)
 
-![pizza][pizza] (pizza)
+![pizza](src/pizza) (pizza)
 
-![sandwich][sandwich] (sandwich)
+![sandwich](src/sandwich) (sandwich)
 
-![sushi][sushi] (sushi)
+![sushi](src/sushi) (sushi)
 
-![Taco][taco] (taco)
+![Taco](src/taco) (taco)
 
-![dietcoke][dietcoke] (dietcoke)
+![dietcoke](src/dietcoke) (dietcoke)
 
-![wonka][wonka] (wonka)
+![wonka](src/wonka) (wonka)
 
-![wolverine][wolverine] (wolverine)
+![wolverine](src/wolverine) (wolverine)
 
-![hr][hr] (hr)
+![hr](src/hr) (hr)
 
-![dolpin][dolphin] (dolphin)
+![dolpin](src/dolphin) (dolphin)
 
-![timeforthat][timeforthat] (timeforthat)
+![timeforthat](src/timeforthat) (timeforthat)
 
-![dude][dude] (dude)
+![dude](src/dude) (dude)
 
-![poolparty][poolparty] (poolparty)
+![poolparty](src/poolparty) (poolparty)
 
-![horse][horse] (horse)
+![horse](src/horse) (horse)
 
-
-[4K]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/4K.png
-[drupal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/drupal.png
-[ewok]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/ewok.gif
-[jim]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/jim.gif
-[octocat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/octocat.png
-[penguin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/penguin.gif
-[pizza]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/pizza.png
-[sandwich]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/sandwich.png
-[sushi]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/sushi.png
-[taco]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/taco.png
-[wolverine]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/wolverine.gif
-[doge]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/doge.png
-[bacon]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/bacon.png
-[wonka]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/wonka.png
-[hr]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/hr.png
-[dolphin]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dolphin.png
-[bike]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/bike.png
-[hamburger]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/hamburger.png
-[dietcoke]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dietcoke.png
-[+1]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/+1.png
-[metal]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/metal.png
-[timeforthat]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/timeforthat.gif
-[dude]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/dude.png
-[poolparty]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/poolparty.gif
-[horse]: https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/horse.png
 
 ## Web chefs
 
-You can also summon any of the Web Chefs using `(firstname)`, except for ![chris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/chris.png) who is `(rupl)`.
+You can also summon any of the Web Chefs using `(firstname)`, except for ![chris](src/chris.png) who is `(rupl)`.
 
-![aaron](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/aaron.png)
-![caris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/caris.png)
-![cecy](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/cecy.png)
-![chris](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/chris.png)
-![david](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/david.png)
-![elia](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/elia.png)
-![elliott](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/elliott.png)
-![ian](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/ian.png)
-![jared](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/jared.png)
-![joe](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/joe.png)
-![leah](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/leah.png)
-![matt](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/matt.png)
-![mike](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/mike.png)
-![paul](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/paul.png)
-![peter](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/peter.png)
-![suzy](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/suzy.png)
-![taylor](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/taylor.png)
-![todd](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/todd.png)
-![vivek](https://raw.github.com/fourkitchens/hipchat-emoticons/master/src/vivek.png)
+![aaron](src/aaron.png)
+![caris](src/caris.png)
+![cecy](src/cecy.png)
+![chris](src/chris.png)
+![david](src/david.png)
+![elia](src/elia.png)
+![elliott](src/elliott.png)
+![ian](src/ian.png)
+![jared](src/jared.png)
+![joe](src/joe.png)
+![leah](src/leah.png)
+![matt](src/matt.png)
+![mike](src/mike.png)
+![paul](src/paul.png)
+![peter](src/peter.png)
+![suzy](src/suzy.png)
+![taylor](src/taylor.png)
+![todd](src/todd.png)
+![vivek](src/vivek.png)
 
 ## Creating your own emoticons
 
@@ -117,7 +91,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 
 From the chat window press `ctrl+cmd+space` to bring up the emoji window.
 
-![emoji-screenshot](https://raw.github.com/fourkitchens/hipchat-emoticons/master/emoji-screenshot.png)
+![emoji-screenshot](emoji-screenshot.png)
 
 ## Why can't I use emojis like in Github?
 
