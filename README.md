@@ -72,6 +72,7 @@ You can also summon any of the Web Chefs using `(firstname)`, except for ![chris
 ![leah](src/leah.png)
 ![matt](src/matt.png)
 ![mike](src/mike.png)
+![paul](src/patrick.png)
 ![paul](src/paul.png)
 ![peter](src/peter.png)
 ![suzy](src/suzy.png)
