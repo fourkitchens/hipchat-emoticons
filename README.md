@@ -14,13 +14,23 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![ewok](src/ewok.gif) (ewok)
 
+![dietcoke](src/dietcoke.png) (dietcoke)
+
 ![doge](src/doge.png) (doge)
 
+![dolpin](src/dolphin.png) (dolphin)
+
 ![drupal](src/drupal.png) (drupal)
+
+![dude](src/dude.png) (dude)
 
 ![Earthworm Jim](src/jim.gif) (jim)
 
 ![hamburger](src/hamburger.png) (hamburger)
+
+![horse](src/horse.png) (horse)
+
+![hr](src/hr.png) (hr)
 
 ![metal](src/metal.png) (metal)
 
@@ -30,29 +40,19 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![pizza](src/pizza.png) (pizza)
 
+![poolparty](src/poolparty.gif) (poolparty)
+
 ![sandwich](src/sandwich.png) (sandwich)
 
 ![sushi](src/sushi.png) (sushi)
 
-![Taco](src/taco.png) (taco)
+![taco](src/taco.png) (taco)
 
-![dietcoke](src/dietcoke.png) (dietcoke)
+![timeforthat](src/timeforthat.gif) (timeforthat)
 
 ![wonka](src/wonka.png) (wonka)
 
 ![wolverine](src/wolverine.gif) (wolverine)
-
-![hr](src/hr.png) (hr)
-
-![dolpin](src/dolphin.png) (dolphin)
-
-![timeforthat](src/timeforthat.gif) (timeforthat)
-
-![dude](src/dude.png) (dude)
-
-![poolparty](src/poolparty.gif) (poolparty)
-
-![horse](src/horse.png) (horse)
 
 
 ## Web chefs
@@ -84,13 +84,13 @@ You can also summon any of the Web Chefs using `(firstname)`, except for ![chris
 
 We are using HipChat's built-in emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know.
 
-* Max dimensions are 25px tall and 30px wide
+* Max dimensions are 30px wide by 30px tall
 * Use a transparent PNG or animated GIF for best results
 * Images must be under 100Kb
 
 ## Need more emojis?
 
-From the chat window press `ctrl+cmd+space` to bring up the emoji window.
+Mac client: From the chat window press `ctrl+cmd+space` to bring up the emoji window.
 
 ![emoji-screenshot](emoji-screenshot.png)
 
