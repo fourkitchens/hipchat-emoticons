@@ -12,8 +12,6 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![bike](src/bike.png) (bike)
 
-![ewok](src/ewok.gif) (ewok)
-
 ![dietcoke](src/dietcoke.png) (dietcoke)
 
 ![doge](src/doge.png) (doge)
@@ -24,13 +22,15 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![dude](src/dude.png) (dude)
 
-![Earthworm Jim](src/jim.gif) (jim)
+![ewok](src/ewok.gif) (ewok)
 
 ![hamburger](src/hamburger.png) (hamburger)
 
 ![horse](src/horse.png) (horse)
 
 ![hr](src/hr.png) (hr)
+
+![jim](src/jim.gif) (jim)
 
 ![metal](src/metal.png) (metal)
 
