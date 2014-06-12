@@ -26,6 +26,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![hamburger](src/hamburger.png) (hamburger)
 
+![handhug](src/handhug.png) (handhug)
+
 ![horse](src/horse.png) (horse)
 
 ![hr](src/hr.png) (hr)
