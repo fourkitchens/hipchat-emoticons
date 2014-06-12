@@ -46,6 +46,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![sandwich](src/sandwich.png) (sandwich)
 
+![shipit](src/shipit.png) (shipit)
+
 ![sushi](src/sushi.png) (sushi)
 
 ![taco](src/taco.png) (taco)
