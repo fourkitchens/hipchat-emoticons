@@ -14,8 +14,6 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![dietcoke](src/dietcoke.png) (dietcoke)
 
-![doge](src/doge.png) (doge)
-
 ![dolpin](src/dolphin.png) (dolphin)
 
 ![drupal](src/drupal.png) (drupal)
