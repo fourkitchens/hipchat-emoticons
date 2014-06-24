@@ -56,6 +56,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![wolverine](src/wolverine.gif) (wolverine)
 
+![nyan](src/nyan.gif) ![cat](src/cat.gif)  (nyan)(cat)
+
 
 ## Web chefs
 
