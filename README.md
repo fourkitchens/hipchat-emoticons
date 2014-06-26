@@ -36,6 +36,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![metal](src/metal.png) (metal)
 
+![nyan](src/nyan.gif) ![cat](src/cat.gif) (nyan)(cat)
+
 ![octocat](src/octocat.png) (octocat)
 
 ![penguin](src/penguin.gif) (penguin)
@@ -57,9 +59,6 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![wonka](src/wonka.png) (wonka)
 
 ![wolverine](src/wolverine.gif) (wolverine)
-
-![nyan](src/nyan.gif) ![cat](src/cat.gif)  (nyan)(cat)
-
 
 ## Web chefs
 
@@ -93,6 +92,12 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 * Max dimensions are 30px wide by 30px tall
 * Use a transparent PNG or animated GIF for best results
 * Images must be under 100Kb
+
+### Find inspiration
+
+* [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) ([source](https://github.com/arvida/emoji-cheat-sheet.com/tree/master/public/graphics/emojis/))
+* [ModCloth's emoticons](https://github.com/modcloth/hipchat-emoticons/)
+* [Skype emoticons](http://emoticonhq.com/skypeemoticons.html)
 
 ## Need more emojis?
 
