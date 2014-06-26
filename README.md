@@ -62,7 +62,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Web chefs
 
-You can also summon any of the Web Chefs using `(firstname)`, except for the Chrises. ![chris](src/chris.png) `(rupl)` and ![chrisd] `(chrisd)`.
+You can also summon any of the Web Chefs using `(firstname)`, except for the Chrises: ![chris](src/chris.png) `(rupl)` and ![chrisd](src/chrisd.png) `(chrisd)`.
 
 ![aaron](src/aaron.png)
 ![caris](src/caris.png)
