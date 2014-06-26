@@ -4,9 +4,11 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Emoticons
 
-![4K logo](src/4K.png) (4K)
+![y](src/y.png) (y) or (plusone)
 
-![+1](src/+1.png) (plusone)
+![n](src/n.png) (n)
+
+![4K logo](src/4K.png) (4K)
 
 ![bacon](src/bacon.png) (bacon)
 
