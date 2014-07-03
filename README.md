@@ -75,6 +75,7 @@ You can also summon any of the Web Chefs using `(firstname)`, except for the Chr
 ![ian](src/ian.png)
 ![jared](src/jared.png)
 ![joe](src/joe.png)
+![jon](src/jon.png)
 ![leah](src/leah.png)
 ![matt](src/matt.png)
 ![mike](src/mike.png)
