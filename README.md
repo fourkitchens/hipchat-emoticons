@@ -32,6 +32,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![hr](src/hr.png) (hr)
 
+![inbread](src/inbread.gif) (inbread)
+
 ![jim](src/jim.gif) (jim)
 
 ![metal](src/metal.png) (metal)
