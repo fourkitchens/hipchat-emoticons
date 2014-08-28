@@ -4,7 +4,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Emoticons
 
-![y](src/y.png) (y) or (plusone)
+![y](src/y.png) (y)
 
 ![n](src/n.png) (n)
 
