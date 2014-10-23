@@ -1,6 +1,8 @@
 # 4K HipChat emoticons
 
-We've expanded on the core set of emoticons included with HipChat and added our own. If you're signed into the HipChat website, [hipchat.com/emoticons](https://www.hipchat.com/emoticons/) will show you ALL of the available emoticons!
+We've expanded on the core set of emoticons included with HipChat and added our own.
+
+If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www.hipchat.com/emoticons/)** will show you **ALL of the available emoticons!**
 
 
 ## Emoticons
@@ -84,7 +86,7 @@ You can also summon any of the Web Chefs using `(firstname)`, except for the Chr
 ![leah](src/leah.png)
 ![matt](src/matt.png)
 ![mike](src/mike.png)
-![paul](src/patrick.png)
+![patrick](src/patrick.png)
 ![paul](src/paul.png)
 ![peter](src/peter.png)
 ![suzy](src/suzy.png)
@@ -96,9 +98,11 @@ You can also summon any of the Web Chefs using `(firstname)`, except for the Chr
 
 We are using HipChat's built-in emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know.
 
-* Max dimensions are 30px wide by 30px tall
-* Use a transparent PNG or animated GIF for best results
-* Images must be under 100Kb
+* Largest height/width dimension must be between 64px and 120px
+* Transparent PNG files give the best results
+* Animated gifs are supported
+* Images must be under 1MB
+* [More info](http://help.hipchat.com/knowledgebase/articles/276750-how-to-create-custom-emoticons/)
 
 ### Find inspiration
 
