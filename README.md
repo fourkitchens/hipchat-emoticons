@@ -49,6 +49,8 @@ We've expanded on the core set of emoticons included with HipChat and added our 
 
 ![poolparty](src/poolparty.gif) (poolparty)
 
+![puke](src/puke.gif) (puke)
+
 ![sandwich](src/sandwich.png) (sandwich)
 
 ![shipit](src/shipit.png) (shipit)
