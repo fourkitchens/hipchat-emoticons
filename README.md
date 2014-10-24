@@ -19,6 +19,8 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![dietcoke](src/dietcoke.png) (dietcoke)
 
+![digdug](src/digdug.png) (digdug)
+
 ![dolpin](src/dolphin.png) (dolphin)
 
 ![drupal](src/drupal.png) (drupal)
