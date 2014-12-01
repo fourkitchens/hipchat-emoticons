@@ -69,7 +69,7 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![wolverine](src/wolverine.gif) (wolverine)
 
-## Web chefs
+## Web Chefs
 
 You can also summon any of the Web Chefs using `(firstname)`, except for the Chrises: ![chris](src/chris.png) `(rupl)` and ![chrisd](src/chrisd.png) `(chrisd)`.
 
