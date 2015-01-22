@@ -29,6 +29,8 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![ewok](src/ewok.gif) (ewok)
 
+![git](src/git.png) (git)
+
 ![hamburger](src/hamburger.png) (hamburger)
 
 ![handhug](src/handhug.gif) (handhug)
@@ -61,11 +63,17 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![shipit](src/shipit.png) (shipit)
 
+![stallman](src/stallman.png) (stallman)
+
 ![sushi](src/sushi.png) (sushi)
+
+![tux](src/tux.png) (tux)
 
 ![taco](src/taco.png) (taco)
 
 ![timeforthat](src/timeforthat.gif) (timeforthat)
+
+![torvalds](src/torvalds.png) (torvalds)
 
 ![wonka](src/wonka.png) (wonka)
 
