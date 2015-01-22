@@ -33,6 +33,8 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![handhug](src/handhug.gif) (handhug)
 
+![home](src/home.gif) (home)
+
 ![horse](src/horse.png) (horse)
 
 ![hr](src/hr.png) (hr)
