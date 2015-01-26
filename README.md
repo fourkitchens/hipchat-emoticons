@@ -65,8 +65,6 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![shipit](src/shipit.png) (shipit)
 
-![smh](src/smh.gif) (smh)
-
 ![stallman](src/stallman.png) (stallman)
 
 ![sushi](src/sushi.png) (sushi)
