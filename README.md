@@ -17,6 +17,8 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![bike](src/bike.png) (bike)
 
+![dance](src/dance.gif) (dance)
+
 ![dietcoke](src/dietcoke.png) (dietcoke)
 
 ![digdug](src/digdug.png) (digdug)
