@@ -29,6 +29,8 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![dude](src/dude.png) (dude)
 
+![eliaface](src/eliaface.png) (eliaface)
+
 ![ewok](src/ewok.gif) (ewok)
 
 ![git](src/git.png) (git)
@@ -114,7 +116,7 @@ You can also summon any of the Web Chefs using `(firstname)`, except for the Chr
 We are using HipChat's built-in emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know.
 
 * Largest height/width dimension must be between 64px and 120px
-  * Note: Your emoticon will be scaled down to 32x32 
+  * Note: Your emoticon will be scaled down to 32x32
   * Ideal sizes are 64x64, 96x96, 120x120
   * At the very least, each side of your emoticon should be a multiple of 4
 * Transparent PNG files give the best results
