@@ -13,6 +13,8 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![4K logo](src/4K.png) (4K)
 
+![archer](src/archer.png) (archer)
+
 ![bacon](src/bacon.png) (bacon)
 
 ![bike](src/bike.png) (bike)
