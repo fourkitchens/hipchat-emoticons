@@ -49,7 +49,7 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![inbread](src/inbread.gif) (inbread)
 
-![jazzhands](src/jazzhands.png) (jazzhands)
+![jazzhands](src/jazzhands.gif) (jazzhands)
 
 ![jim](src/jim.gif) (jim)
 
