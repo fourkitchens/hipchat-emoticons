@@ -13,6 +13,8 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 
 ![4K logo](src/4K.png) (4K)
 
+![archer](src/archer.png) (archer)
+
 ![bacon](src/bacon.png) (bacon)
 
 ![bike](src/bike.png) (bike)
@@ -46,6 +48,8 @@ If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www
 ![hr](src/hr.png) (hr)
 
 ![inbread](src/inbread.gif) (inbread)
+
+![jazzhands](src/jazzhands.gif) (jazzhands)
 
 ![jim](src/jim.gif) (jim)
 
