@@ -1,5 +1,7 @@
 # 4K HipChat emoticons
 
+> :information_desk_person: We've made the switch to Slack so this repo is effectively a time capsule of a bygone era.
+
 We've expanded on the core set of emoticons included with HipChat and added our own.
 
 If you're signed into the HipChat website, **[hipchat.com/emoticons](https://www.hipchat.com/emoticons/)** will show you **ALL of the available emoticons!**
